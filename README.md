@@ -56,4 +56,6 @@ python manage.py runserver
   <img width="660" height="300" src="static/ss/b.png">
 </p>
 
+#output 
+![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/2940c0dc-d455-480b-8b7b-c6c9d8fce14b)
 
