@@ -52,10 +52,10 @@ python manage.py runserver
 
 # Screenshots of the Project
 <p align="center">
-  <img width="660" height="300" src="static/ss/a.png">
-  <img width="660" height="300" src="static/ss/b.png">
+  <img width="660" height="300" src="![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/2940c0dc-d455-480b-8b7b-c6c9d8fce14b)">
+  <img width="660" height="300" src="![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/daf69f86-0934-4871-ac0e-4f9417ace88d)
+">
 </p>
 
-#output 
-![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/2940c0dc-d455-480b-8b7b-c6c9d8fce14b)
+
 
