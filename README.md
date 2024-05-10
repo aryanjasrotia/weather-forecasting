@@ -50,12 +50,12 @@ python manage.py runserver
 * Django
 * SQLite 3
 
-# Screenshots of the Project
-<p align="center">
-  <img width="660" height="300" src="![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/2940c0dc-d455-480b-8b7b-c6c9d8fce14b)">
-  <img width="660" height="300" src="![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/daf69f86-0934-4871-ac0e-4f9417ace88d)
-">
-</p>
+#output
+![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/77f5b470-d591-41d9-ab04-94a793f066db)
+
+![image](https://github.com/aryanjasrotia/weather-forecasting/assets/138384610/be412262-6db5-45ae-804e-c6e0392b43bd)
+
+
 
 
 
